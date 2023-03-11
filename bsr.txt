@@ -1,5 +1,8 @@
 i love icecream
 i love chocolates 
+<<<<<<< HEAD
 banana
 grapes
+=======
+>>>>>>> parent of bc875d5 (8th commit)
 
