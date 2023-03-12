@@ -1,2 +1,12 @@
+<<<<<<< HEAD
 hii
 
+=======
+i love icecream
+i love chocolates 
+deepthi
+vasu
+usha
+teddybear
+chocolate
+>>>>>>> f54d86f5e0ea30b316cdaaf33e50ee79c26635b9
